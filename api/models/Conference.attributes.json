@@ -1,0 +1,1 @@
+{"attributes":{"description":{"type":"string","defaultsTo":null},"title":{"type":"string","defaultsTo":null},"link":{"type":"string","defaultsTo":null},"confDate":{"type":"string","defaultsTo":null},"active":{"type":"boolean","defaultsTo":null}},"globalId":"Conference","identity":"conference"}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {},
+  "machinepack": {
+    "machines": ["create_conference", "create_conftag", "create_score", "create_tag", "destroy_conference", "destroy_conftag", "destroy_score", "destroy_tag", "findOne_conference", "findOne_conftag", "findOne_score", "findOne_tag", "blueprintFind_conference", "blueprintFind_conftag", "blueprintFind_score", "blueprintFind_tag", "find_conference", "find_conftag", "find_score", "find_tag", "update_conference", "update_conftag", "update_score", "update_tag"],
+    "machineVersions": {
+      "create_conference": "0.0.6",
+      "create_conftag": "0.0.2",
+      "create_score": "0.0.2",
+      "create_tag": "0.0.1",
+      "destroy_conference": "0.0.6",
+      "destroy_conftag": "0.0.2",
+      "destroy_score": "0.0.2",
+      "destroy_tag": "0.0.1",
+      "findOne_conference": "0.0.6",
+      "findOne_conftag": "0.0.2",
+      "findOne_score": "0.0.2",
+      "findOne_tag": "0.0.1",
+      "blueprintFind_conference": "0.0.6",
+      "blueprintFind_conftag": "0.0.2",
+      "blueprintFind_score": "0.0.2",
+      "blueprintFind_tag": "0.0.1",
+      "find_conference": "0.0.6",
+      "find_conftag": "0.0.2",
+      "find_score": "0.0.2",
+      "find_tag": "0.0.1",
+      "update_conference": "0.0.6",
+      "update_conftag": "0.0.2",
+      "update_score": "0.0.2",
+      "update_tag": "0.0.1"
+    }
+  }
+}

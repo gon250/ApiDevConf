@@ -1,0 +1,23 @@
+module.exports.routes = {
+  "post /score": "ScoreController.post_create",
+  "get /conference": "ConferenceController.get_find",
+  "get /tag": "TagController.get_find",
+  "get /score": "ScoreController.get_find",
+  "post /tag": "TagController.post_create",
+  "post /conference": "ConferenceController.post_create",
+  "get /conftag": "ConftagController.get_find",
+  "post /conftag": "ConftagController.post_create",
+  "get /": "Home$Controller.find",
+  "delete /score/:id": "ScoreController.delete_$id",
+  "put /conference/:id": "ConferenceController.put_$id",
+  "get /conftag/:id": "ConftagController.get_$id",
+  "put /score/:id": "ScoreController.put_$id",
+  "delete /conference/:id": "ConferenceController.delete_$id",
+  "delete /conftag/:id": "ConftagController.delete_$id",
+  "get /tag/:id": "TagController.get_$id",
+  "get /score/:id": "ScoreController.get_$id",
+  "put /tag/:id": "TagController.put_$id",
+  "delete /tag/:id": "TagController.delete_$id",
+  "get /conference/:id": "ConferenceController.get_$id",
+  "put /conftag/:id": "ConftagController.put_$id"
+};
